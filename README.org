@@ -1,7 +1,7 @@
 #+TITLE: Howdy!
 #+AUTHOR: Vox
 
-I'm Vox, a 19-year old furry physics major and music minor.
+I'm Vox, a 19-year old physics major and music minor.
 
 I play the trumpet, have an interest in complex mathematics, and I'm hoping to get into research regarding quantum physics.
 
