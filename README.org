@@ -5,13 +5,15 @@ I'm Vox, a 19-year old physics major and music minor.
 
 I play the trumpet, have an interest in complex mathematics, and I'm hoping to get into research regarding quantum physics.
 
+Been using Linux exclusively since 2020.
+
 * Programming
 I'm very new to programming and have had basic introductions to:
-- C++
 - C#
+- C++
 - Python
-- Haskell
 - Bash scripting
+- Haskell
 
 * Academics
 So far I've taken:
@@ -19,3 +21,12 @@ So far I've taken:
 - Ordinary Differential Equations
 - Chemistry I
 - Physics I, II
+
+Some pieces I've learned on trumpet:
+- Trumpet Concerto in Eb (Hummel)
+- Trumpet Concerto in Eb (Haydn)
+- Sonata for Trumpet (Hindemith)
+- Trumpet Sonata (Kennan)
+- Slavische Fantasie (Höhne)
+- Triptyque (Tomasi)
+- Variations on the Carnival of Venice (Arban)
