@@ -16,7 +16,7 @@ I'm very new to programming and have had basic introductions to:
 - Haskell
 
 * Academics
-So far I've taken:
+Some courses I've taken:
 - Calculus I, II
 - Ordinary Differential Equations
 - Chemistry I
@@ -30,3 +30,4 @@ Some pieces I've learned on trumpet:
 - Slavische Fantasie (Höhne)
 - Triptyque (Tomasi)
 - Variations on the Carnival of Venice (Arban)
+- The Messiah (Händel)
