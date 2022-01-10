@@ -3,9 +3,12 @@
 
 I'm Vox, a 19-year old physics major and music minor.
 
-I play the trumpet, have an interest in complex mathematics, and I'm hoping to get into research regarding quantum physics.
-
-Been using Linux exclusively since 2020.
+- I'm a trumpet player.
+- I'm very interested in complex mathematics.
+- Been using Linux exclusively since 2020.
+- I love worldbuilding/fantasy.
+- I'm a furry (and obsessed with dragons).
+- I hope to get into research regarding quantum physics some day. ^w^
 
 * Programming
 I'm very new to programming and have had basic introductions to:
