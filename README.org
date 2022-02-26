@@ -20,10 +20,11 @@ I'm very new to programming and have had basic introductions to:
 
 * Academics
 Some courses I've taken:
-- Calculus I, II
+- Calculus I, II, III
 - Ordinary Differential Equations
-- Chemistry I
+- Chemistry I, II
 - Physics I, II
+- Post-Newtonian Physics I
 
 Some pieces I've learned on trumpet:
 - Trumpet Concerto in Eb (Hummel)
