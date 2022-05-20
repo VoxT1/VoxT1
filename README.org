@@ -1,5 +1,10 @@
 #+TITLE: Howdy!
 #+AUTHOR: Vox
+#  _   ___     __
+# | \ | \ \   / /  Noctivox
+# |  \| |\ \ / /   https://www.github.com/VoxT1
+# | |\  | \ V /    https://www.twitter.com/VoxNoctivox
+# |_| \_|  \_/     vt#9827
 
 I'm Vox, a 20-year old physics major and music minor.
 
@@ -22,8 +27,13 @@ I'm very new to programming and have had basic introductions to:
 Some courses I've taken:
 - Calculus I, II, III
 - Ordinary Differential Equations
+- Linear Algebra
 - Chemistry I, II
 - Physics I, II
+- Mechanics I
+- Optical Physics
+- Quantum Physics
+- Solid State Physics
 - Post-Newtonian Physics I
 
 Some pieces I've learned on trumpet:
