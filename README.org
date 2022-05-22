@@ -25,16 +25,16 @@ I'm very new to programming and have had basic introductions to:
 
 * Academics
 Some courses I've taken:
-- Calculus I, II, III
+- Differential, Integral & Multivariable Calculus
 - Ordinary Differential Equations
 - Linear Algebra
 - Chemistry I, II
 - Physics I, II
-- Mechanics I
+- Classical Mechanics
+- Post-Newtonian Physics I
 - Optical Physics
 - Quantum Physics
 - Solid State Physics
-- Post-Newtonian Physics I
 
 Some pieces I've learned on trumpet:
 - Trumpet Concerto in Eb (Hummel)
