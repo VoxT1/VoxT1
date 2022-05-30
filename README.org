@@ -4,7 +4,7 @@
 # | \ | \ \   / /  Noctivox
 # |  \| |\ \ / /   https://www.github.com/VoxT1
 # | |\  | \ V /    https://www.twitter.com/VoxNoctivox
-# |_| \_|  \_/     vt#9827
+# |_| \_|  \_/     nv#9827
 
 I'm Vox, a 20-year old physics major and music minor.
 
@@ -36,12 +36,3 @@ Some courses I've taken:
 - Quantum Physics
 - Solid State Physics
 
-Some pieces I've learned on trumpet:
-- Trumpet Concerto in Eb (Hummel)
-- Trumpet Concerto in Eb (Haydn)
-- Sonata for Trumpet (Hindemith)
-- Trumpet Sonata (Kennan)
-- Slavische Fantasie (Höhne)
-- Triptyque (Tomasi)
-- Variations on the Carnival of Venice (Arban)
-- The Messiah (Händel)
