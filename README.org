@@ -8,12 +8,12 @@
 
 I'm Vox, a 20-year old physics major and music minor.
 
-- I'm a trumpet player.
-- I'm very interested in complex mathematics.
+- I'm a trumpet player and love classical music.
+- I'm fascinated by physics; quantum mechanics and General Relativity in particular.
 - Been using Linux exclusively since 2020.
 - I love worldbuilding/fantasy.
-- I'm a furry (and obsessed with dragons).
-- I hope to get into research regarding quantum physics some day. ^w^
+- I'm obsessed with dragons.
+- I hope to get into some kind of physics research in the future. ^w^
 
 * Programming
 I'm very new to programming and have had basic introductions to:
@@ -36,3 +36,11 @@ Some courses I've taken:
 - Quantum Physics
 - Solid State Physics
 
+* Music
+Some of my favorite pieces:
+- The Planets /[Holst]/
+- The Rite of Spring /[Stravinsky]/
+- Symphony No. 8 /[Shostakovich]/
+- Cello Concerto No. 1 /[Shostakovich]/
+- Passacaglia & Fugue in C Minor /[Bach]/
+- Fantasie & Fugue in G Minor /[Bach]/
