@@ -1,15 +1,16 @@
 #+TITLE: Howdy!
 #+AUTHOR: Vox
-#  _   ___     __
-# | \ | \ \   / /  Noctivox
-# |  \| |\ \ / /   https://www.github.com/VoxT1
-# | |\  | \ V /    https://www.twitter.com/VoxNoctivox
-# |_| \_|  \_/     nv#9827
+#         ____
+#  _   _ / ___|  UmbralGoat [Vox]
+# | | | | |  _   https://www.github.com/VoxT1
+# | |_| | |_| |  https://www.twitter.com/umbralgoat
+#  \__,_|\____|  ψι#6283
+#
 
-I'm Vox, a 20-year old physics major and music minor.
+I'm Vox, a computer-loving physics major and music minor.
 
 - I'm a trumpet player and love classical music.
-- I'm fascinated by physics; quantum mechanics and General Relativity in particular.
+- I'm fascinated by physics; Quantum Mechanics & Field Theory in particular.
 - Been using Linux exclusively since 2020.
 - I love worldbuilding/fantasy.
 - I'm obsessed with dragons.
@@ -28,13 +29,10 @@ Some courses I've taken:
 - Differential, Integral & Multivariable Calculus
 - Ordinary Differential Equations
 - Linear Algebra
-- Chemistry I, II
-- Physics I, II
 - Classical Mechanics
-- Post-Newtonian Physics I
-- Optical Physics
 - Quantum Physics
-- Solid State Physics
+- Optics
+- Condensed Matter Physics
 
 * Music
 Some of my favorite pieces:
